@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+
+
+.btn-primary {
+  @apply bg-black  text-white px-12 py-2 rounded-md text-base font-secondary font-bold hover:bg-slate-900 hover:text-white transition-all duration-200 cursor-pointer
+}
+
+.loader {
+  border: 2px solid rgba(255, 0, 0, 0.3); /* Light red border */
+  border-top: 2px solid red; /* Red border on top */
+  border-radius: 50%; /* Make it a circle */
+  width: 40px; /* Width of the loader */
+  height: 40px; /* Height of the loader */
+  animation: spin 1s linear infinite; /* Animation to rotate the loader */
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

@@ -1,0 +1,117 @@
+[
+    {
+        "title" : "HAVIT HV-G92 Gamepad",
+        "category" : "Gaming",
+        "trending" : true,
+        "coverImage" : "controller-pad.png",
+        "oldPrice" : "160",
+        "newPrice" : "120"
+    },
+    {
+        "title" : "AK-900 Wired Keyboard",
+        "category" : "computers",
+        "trending" : false,
+        "coverImage" : "keyboard.png",
+        "oldPrice" : "1160",
+        "newPrice" :"960"
+    },
+    {
+        "title" : "IPS LCD Gaming Monitor",
+        "category" : "computers",
+        "trending" : true,
+        "coverImage" : "desktop-monitor.png",
+        "oldPrice" : "400",
+        "newPrice" : "370"
+    },
+    {
+        "title" : "S-Series Comfort Chair",
+        "category" : "Gaming",
+        "trending" : true,
+        "coverImage" : "sam-moghadam-khamseh-chair.png",
+        "oldPrice" : "400",
+        "newPrice" : "370"
+    },
+    {
+        "title" : "The north coat",
+        "category" : "clothes",
+        "trending" : true,
+        "coverImage" : "hoodie.png",
+        "oldPrice" : "360",
+        "newPrice" : "320" 
+    },
+    {
+        "title" : "Gucci duffle bag",
+        "category" : "Bags",
+        "trending" : true,
+        "coverImage" : "gucci-bag.png",
+        "oldPrice" : "1160",
+        "newPrice" : "960"   
+    },
+    {
+        "title" : "RGB liquid CPU Cooler",
+        "category" : "computers",
+        "trending" : false,
+        "coverImage" : "cooling-fan.png",
+        "oldPrice" : "170",
+        "newPrice" : "160"  
+    },
+    {
+        "title" : "Small BookSelf",
+        "category" : "furniture",
+        "trending" : true,
+        "coverImage" : "shelf.png",
+        "oldPrice" : "360",
+        "newPrice" : "350" 
+    },
+    {
+        "title" : "Breed Dry Dog Food",
+        "category" : "food",
+        "trending" : true,
+        "coverImage" : "cesar.png",
+        "oldPrice" : "200",
+        "newPrice" : "150"  
+    },
+    {
+        "title" : "ASUS FHD Gaming Laptop",
+        "category" : "computers",
+        "trending" : true,
+        "coverImage" : "ideapad-gaming-pc.png",
+        "oldPrice" : "700",
+        "newPrice" : "650"
+    },
+    {
+        "title" : "Kids Electric Car",
+        "category" : "toys",
+        "trending" : true,
+        "coverImage" : "New-Mercedes-Benz-Gtr-Licensed-Ride-on-Car-Kids-Electric-Toy-Car 1.png",
+        "oldPrice" : "1500",
+        "newPrice" : "800"
+    },
+    {
+        "title" : "Jr. Zoom Soccer Cleats",
+        "category" : "clothes",
+        "trending" : true,
+        "coverImage" : "soccerboot.png",
+        "oldPrice" : "2000",
+        "newPrice" : "1160"  
+    },
+    {
+        "title" : "GP11 Shooter USB Gamepad",
+        "category" : "computers",
+        "trending" : true,
+        "coverImage" : "gamepad.png",
+        "oldPrice" : "700",
+        "newPrice" : "600" 
+    },
+    {
+        "title" : "Quilted Satin Jacket",
+        "category" : "clothes",
+        "trending" : false,
+        "coverImage" : "Light-Reversible-quilted-satin-jacket.png",
+        "oldPrice" : "700",
+        "newPrice" : "660"  
+    }
+]
+
+
+
