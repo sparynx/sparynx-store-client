@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import Loader from "../../components/Loader";
 import { useAuth } from "../../context/AuthContext";
 import { useGetOrderByEmailQuery } from "../../redux/features/orders/ordersApi";
-import { getImgUrl } from "../../utils/getImgurl";
+import { getImgUrl } from "../../utils/thegetImgurl";
 
 
 const OrderPage = () => {

@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux';
 import { Link, useNavigate } from 'react-router-dom';
 import { useCreateOrderMutation } from '../../redux/features/orders/ordersApi';
 import Swal from 'sweetalert2';
-import {getImgUrl} from "../../utils/getImgurl"
+import {getImgUrl} from "../../utils/thegetImgurl"
 import { useAuth } from '../../context/AuthContext';
 import Loader from '../../components/Loader';
 

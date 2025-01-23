@@ -5,7 +5,7 @@ import { useFetchProductByIdQuery } from '../../redux/features/products/products
 import { useDispatch } from "react-redux"
 import { addToCart } from "../../redux/features/cart/cartSlice"
 import Loader from '../../components/Loader'
-import {getImgUrl} from "../../utils/getImgurl"
+import {getImgUrl} from "../../utils/thegetImgurl"
 
 const SingleProductPage = () => {
   const {id} = useParams()
