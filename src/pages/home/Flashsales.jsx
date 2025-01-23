@@ -1,5 +1,5 @@
 import  { useState, useEffect } from 'react';
-import ProductCard from "../products/ProductCard";
+import ProductCard from "../products/TheProductCards";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination } from 'swiper/modules';
 import 'swiper/css';

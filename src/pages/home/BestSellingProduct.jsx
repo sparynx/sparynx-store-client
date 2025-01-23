@@ -3,7 +3,7 @@
 import { Link } from "react-router-dom"
 import Loader from "../../components/Loader"
 import { useFetchAllProductsQuery } from "../../redux/features/products/productsApi"
-import ProductCard from "../products/productCard"
+import ProductCard from "../products/TheProductCards"
 
 const BestSellingProduct = () => {
 

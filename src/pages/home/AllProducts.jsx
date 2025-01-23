@@ -1,7 +1,7 @@
 // import React from 'react'
 import  { useFetchAllProductsQuery } from '../../redux/features/products/productsApi'
 import Loader from '../../components/Loader'
-import ProductCard from '../products/productCard'
+import ProductCard from '../products/TheProductCards'
 
 const AllProducts = () => {
     const {data: products = [], isLoading, error} = useFetchAllProductsQuery() 
