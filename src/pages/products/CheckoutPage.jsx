@@ -63,7 +63,7 @@ const CheckoutPage = () => {
       });
 
       // Send order details to the user's email
-      await fetch('http://localhost:3000/api/orders/send-email', {
+      await fetch('https://sparynx-store-server.onrender.com/api/orders/send-email', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
